@@ -22,10 +22,10 @@ financed by the PNRR within the "FIT for Medical Robotics" project of the Minist
 - 👨‍🎓 **BSc in Computer Engineering** at [UNIMORE](https://www.ingmo.unimore.it/it/didattica/corsi-di-laurea-informazioni-generali/ingegneria-informatica), with a thesis in the field of `Industry 4.0`, about the `optimization of the automation of a sorting plant` of the [E80 group](https://www.e80group.com/it/).
 - 📚 Currently exploring **AI, Machine Learning, Deep Learning, and Data Analysis in particular applied on medical imaging**.
 
+<!--
 ### My Passions 🌄
 
 
-<!--
 ### My Personal Website + Curriculum 🌐📃
 👉 [Personal Website](link)
 -->
@@ -62,7 +62,7 @@ financed by the PNRR within the "FIT for Medical Robotics" project of the Minist
 - 🏛️ Institutional email: kevin.marchesini@unimore.it
 - 𝕏 [𝕏](https://x.com/kevinmarchesini?s=21&t=cuvQFubHc4Tru_-8aMrwrA)
 - ⓕ [Facebook](https://www.facebook.com/share/15rwhtn2Mr/?mibextid=wwXIfr)
-- 📸 [Instagram] 
+- 📸 [Instagram](https://www.instagram.com/kevinmarchesini?igsh=bTNwdWJlaTRlYjN3) 
      
 <!--
 ---
